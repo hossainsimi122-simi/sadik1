@@ -1,0 +1,54 @@
+ .diya{
+    background-color: black;
+    color: red;
+    font-size: 80px;
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+body{
+    background-color:seagreen!important;
+
+}
+    .navbar{
+    background-color:rgba(46, 122, 139, 0.004);
+    
+      
+}
+a{
+    color:black !important;
+    font-size: 40px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+h2{
+    text-align: center;
+}
+.container{
+   margin-top: 30px;
+   
+}
+.heading{
+    font-size: 25px;
+}
+.carousel-inner{
+    height: 800px;
+}
+.we{
+    margin-top: 130px;
+}
+.simi{
+     margin-top: 130px;
+     color:#ffffff;
+     font-size: 50px;
+
+}
+.simi3{
+     color:white;
+     font-size: 40px;
+     margin: 20px;
+}
